@@ -1,2 +1,2 @@
-# Class-20
-Algorithum for is touching and is colliding
+# collisionAlgorithm
+Algorithm to detect collision between two objects
